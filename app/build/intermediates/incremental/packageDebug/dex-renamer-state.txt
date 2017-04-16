@@ -1,0 +1,7 @@
+#Fri Mar 03 22:12:05 ICT 2017
+base.0=/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b5fc6248952ddd1260b242d68adc6d06a271d8f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fab269fb8b72df338f183e2a5d53f551f485725a/classes.dex
+base.1=/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fab269fb8b72df338f183e2a5d53f551f485725a
+file.0=/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b5fc6248952ddd1260b242d68adc6d06a271d8f/classes.dex

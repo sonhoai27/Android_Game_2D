@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/son/.android/build-cache/bf255cb5536ba5923d9e10910a9ad3e0005c7871/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/son/.android/build-cache/bf255cb5536ba5923d9e10910a9ad3e0005c7871/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/son/.android/build-cache/bf255cb5536ba5923d9e10910a9ad3e0005c7871/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/drawable-v21/background_play.xml",
+        "source": "/Volumes/Media/GamePlay2D/app/src/main/res/drawable-v21/background_play.xml"
+    }
+]

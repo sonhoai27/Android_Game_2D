@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/raw/hit.wav",
+        "source": "/Volumes/Media/GamePlay2D/app/src/main/res/raw/hit.wav"
+    },
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/raw/fly.mp3",
+        "source": "/Volumes/Media/GamePlay2D/app/src/main/res/raw/fly.mp3"
+    },
+    {
+        "merged": "/Volumes/Media/GamePlay2D/app/build/intermediates/res/merged/debug/raw/over.wav",
+        "source": "/Volumes/Media/GamePlay2D/app/src/main/res/raw/over.wav"
+    }
+]

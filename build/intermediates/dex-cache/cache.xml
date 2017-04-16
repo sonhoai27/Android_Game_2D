@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/a998a6c8aaadaba635c24aadebf004228663e924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8964cef36c3f3a6c3aeecf7f8dd03642ae603c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/a6229d2dbd02dc4e7e32120a927e5513fcc484d4/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_97c3b5147ae5f4c46453e84c1452ab0c1ad28f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/b5e887cf441de9e55881d98082fc1209cb63e626/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2228028a48bcf9df4348c8ca74d34bce5150d2ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/a22576b06a409c52f2ffc9dbde02bc7ebb1b671e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a3ab1baa88b60457935291b07c68e9f368a49cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/e082295b93e255c54ad1f630d2f09e5986511294/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_34c5caa6facd383de0fadedd2cecf40fa6b8be0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/60a00aec607267f4a6a7a4194f7122dc8eac3948/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_841042b4146e0d1204ba113d5cd631ba85f7e99d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/a22576b06a409c52f2ffc9dbde02bc7ebb1b671e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_668c8a2d2aed6e2b5f35e4dc9e2827d3c90df5b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/2040a6ccf59c5df55bb90b7099134fc1cd30a493/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8416d797a654c5690868d737ff320c99cedba0bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Media/GamePlay2D/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fab269fb8b72df338f183e2a5d53f551f485725a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/a6229d2dbd02dc4e7e32120a927e5513fcc484d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cd460129c9b64545c066a4a16ee3ca54d78be03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/b5e887cf441de9e55881d98082fc1209cb63e626/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54f66a1a7999cabcd19bead0309ad57559efe4bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/e082295b93e255c54ad1f630d2f09e5986511294/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66a519a5e5c9836e606f95fd31cd20bd1eb00630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/60a00aec607267f4a6a7a4194f7122dc8eac3948/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_979c3666c6d6b3521d20978907152b55b00a4b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/bf255cb5536ba5923d9e10910a9ad3e0005c7871/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ee9ecf0ada1e7da5a70dcb7006fcbe378820166/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Media/GamePlay2D/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="97abbc856f09a67990a817d633536a24edecbb87">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b5fc6248952ddd1260b242d68adc6d06a271d8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/.android/build-cache/94fa3652fc6d2ef97a2d1ebcd600925a295fb102/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e600b92f30770c00ee798ddf8ad9e5fbb1c70eae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/son/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Volumes/Media/GamePlay2D/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3c9a1c4f4870dd28327ca281fb230d265490c45c/classes.dex" />
+    </item>
+
+</items>
